@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\Projects\csarc\csarc\bin\Debug\csarc.exe.config
+C:\Users\dell\documents\visual studio 2015\Projects\csarc\csarc\bin\Debug\csarc.exe
+C:\Users\dell\documents\visual studio 2015\Projects\csarc\csarc\bin\Debug\csarc.pdb
+C:\Users\dell\documents\visual studio 2015\Projects\csarc\csarc\obj\Debug\csarc.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2015\Projects\csarc\csarc\obj\Debug\csarc.exe
+C:\Users\dell\documents\visual studio 2015\Projects\csarc\csarc\obj\Debug\csarc.pdb
